@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-memory-1/static/css/main.f499f588.css",
+    "main.js": "/react-memory-1/static/js/main.e9821499.js",
+    "index.html": "/react-memory-1/index.html",
+    "main.f499f588.css.map": "/react-memory-1/static/css/main.f499f588.css.map",
+    "main.e9821499.js.map": "/react-memory-1/static/js/main.e9821499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f499f588.css",
+    "static/js/main.e9821499.js"
+  ]
+}
